@@ -9,8 +9,8 @@ public class RpvaBeApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(RpvaBeApplication.class, args);
 		
-		
-		return;
 	}
+
+
 
 }
