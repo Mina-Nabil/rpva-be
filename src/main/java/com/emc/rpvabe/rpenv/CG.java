@@ -11,5 +11,4 @@ public class CG {
   public ArrayList<Copy> copies;
   public ArrayList<Link> links;
   public ArrayList<Rset> rsets;
-  public ArrayList<Volume> volumes;
 }
