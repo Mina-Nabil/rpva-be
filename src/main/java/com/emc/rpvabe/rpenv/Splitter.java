@@ -6,7 +6,7 @@ public class Splitter {
   public String type;
   public String status;
   public int attachedClusters;
-  public String attachedVolumes;
+  public ArrayList<Volume> attachedVolumes;
   public String version;
 
 
