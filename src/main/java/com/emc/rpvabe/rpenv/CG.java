@@ -1,5 +1,6 @@
 package com.emc.rpvabe.rpenv;
 
+import java.util.*;
 
 public class CG {
   public String name;
@@ -10,4 +11,5 @@ public class CG {
   public ArrayList<Copy> copies;
   public ArrayList<Link> links;
   public ArrayList<Rset> rsets;
+  public ArrayList<Volume> volumes;
 }
