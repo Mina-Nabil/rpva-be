@@ -1,6 +1,5 @@
 package com.emc.rpvabe.rpenv;
 
-import java.util.*;
 
 public class LPolicy {
   public Boolean isActive;

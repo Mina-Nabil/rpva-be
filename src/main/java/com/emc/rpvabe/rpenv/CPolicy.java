@@ -7,4 +7,10 @@ public class CPolicy{
   public Boolean isLongResync;
   public String  testWriteProportion;
   public SnapshotConsolidationPolicy snapshotConsolidation;
+
+
+  public CPolicy(String journalCompression, String protectionWindow, String maxJournalLag, Boolean isLongResync, String testWriteProportion, SnapshotConsolidationPolicy snapshotconsilidationPolicy){
+    String 
+  }
+
 }
